@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>IMG_20250322_194337.jpg</filename>
+	<path>D:\card\img\IMG_20250322_194337.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eighthearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>819</xmin>
+			<ymin>2036</ymin>
+			<xmax>2953</xmax>
+			<ymax>4253</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>IMG_20250322_194557.jpg</filename>
+	<path>D:\card\img\IMG_20250322_194557.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sevenclubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>886</xmin>
+			<ymin>1720</ymin>
+			<xmax>2153</xmax>
+			<ymax>3520</ymax>
+		</bndbox>
+	</object>
+</annotation>

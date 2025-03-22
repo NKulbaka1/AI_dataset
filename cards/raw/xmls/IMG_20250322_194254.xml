@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>IMG_20250322_194254.jpg</filename>
+	<path>D:\card\img\IMG_20250322_194254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sevenhearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1003</xmin>
+			<ymin>1720</ymin>
+			<xmax>2653</xmax>
+			<ymax>4086</ymax>
+		</bndbox>
+	</object>
+</annotation>
