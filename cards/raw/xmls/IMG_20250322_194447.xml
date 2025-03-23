@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compressed</folder>
+	<filename>IMG_20250322_194447.jpg</filename>
+	<path>D:\card\compressed\IMG_20250322_194447.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eightdiamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>171</ymin>
+			<xmax>260</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

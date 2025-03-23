@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compressed</folder>
+	<filename>IMG_20250322_194515.jpg</filename>
+	<path>D:\card\compressed\IMG_20250322_194515.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sixclubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>195</ymin>
+			<xmax>262</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

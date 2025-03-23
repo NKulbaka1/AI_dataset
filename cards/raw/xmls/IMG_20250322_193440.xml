@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compressed</folder>
+	<filename>IMG_20250322_193440.jpg</filename>
+	<path>D:\card\compressed\IMG_20250322_193440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eightspades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>171</ymin>
+			<xmax>261</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

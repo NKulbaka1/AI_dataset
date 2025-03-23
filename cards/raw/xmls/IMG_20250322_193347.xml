@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compressed</folder>
+	<filename>IMG_20250322_193347.jpg</filename>
+	<path>D:\card\compressed\IMG_20250322_193347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sixspades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>198</ymin>
+			<xmax>264</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>
